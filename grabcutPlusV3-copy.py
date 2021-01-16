@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 ===============================================================================
-!! Update code documentation (as of Jan16,2020: Incomplete and ) !!
+!! Update code documentation (as of Jan16,2020: Incomplete and not well edited) !!
 Interactive Image Segmentation using GrabCut algorithm.
 
 README FIRST:
